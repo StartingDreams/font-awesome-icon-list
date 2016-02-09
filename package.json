@@ -1,6 +1,6 @@
 {
   "name": "font-awesome-icon-list",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Array containing all Font Awesome icon class names.",
   "main": "index",
   "scripts": {
