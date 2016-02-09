@@ -1,5 +1,5 @@
 #Font Awesome Icon List
-===
+---
 
 Array containing all font awesome icon classes.
 
